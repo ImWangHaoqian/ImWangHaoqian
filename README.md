@@ -1,9 +1,7 @@
 ### Haoqian Wang     
 [![ZhiHu](https://img.shields.io/badge/ZhiHu-知乎-blue)](https://www.zhihu.com/people/wanghaoq-23) 
 
-- 👀 I’m interested in RGB/HSI image restoration.
-- 🌱 I’m currently learning Machine Learning, Deep Learning, image processing...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 672698359@qq.com
-
+- 👀 Interested in RGB/HSI image restoration.
+- 🌱 Now a second-year master student in College of Advanced Interdisciplinary Studies, National University of Defense Technology.
+- 💞️ Obtained my BE degrees from Northeastern University in 2022.
 
