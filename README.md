@@ -1,6 +1,6 @@
 ### Haoqian Wang     
 [![ZhiHu](https://img.shields.io/badge/ZhiHu-知乎-blue)](https://www.zhihu.com/people/wanghaoq-23) 
-[![GitHub Followers](https://img.shields.io/github/followers/caiyuanhao1998?style=social)](https://github.com/ImWangHaoqian)
+[![GitHub Followers](https://github.com/ImWangHaoqian?style=social)](https://github.com/ImWangHaoqian)
 
 - 👋 Hi, I’m @ImWangHaoqian
 - 👀 I’m interested in Machine Learning, Deep Learning, image processing...
