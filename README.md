@@ -1,5 +1,4 @@
 ### Haoqian Wang（王浩乾）     
-[![ZhiHu](https://img.shields.io/badge/ZhiHu-知乎-blue)](https://www.zhihu.com/people/wanghaoq-23) 
 
 - 🔬 Interested in RGB/Hyperspectral image restoration, Object recognition and tracking.
 - 🎓 Now a master student in [College of Advanced Interdisciplinary Studies, National University of Defense Technology](https://www.nudt.edu.cn/yssz/qyjcxkxy/index.htm).
